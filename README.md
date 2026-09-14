@@ -1,4 +1,4 @@
-# TürükShaders (v1.0.0)
+# TürükShaders
 > **Roblox Platformu İçin Tescilli, Harici Görsel & Atmosfer Geliştirme Motoru**
 
 TürükShaders; kurulum gerektirmeyen, taşınabilir (`.exe`) yapıda geliştirilmiş, oyun dosyalarına veya sistem bütünlüğüne zarar vermeyen **bağımsız ve harici bir grafik motorudur**. 
